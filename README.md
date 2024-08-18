@@ -1,7 +1,7 @@
 # Bird-Strike-Cost-Prediction-Project
 This is my  Machine Learning Project for the Master Program at University of South Florida
 
-# Bird Strike Cost Prediction Project
+# Objective
 
 This project focuses on predicting the cost of bird strikes on aircraft by analyzing various incident attributes. Accurate prediction of bird strike costs is crucial for airlines to assess potential damage and make informed decisions immediately following an incident. The project utilizes machine learning models and advanced data preprocessing techniques to achieve this predictive goal, focusing on regression techniques to estimate the `Total Cost` associated with each bird strike incident.
 
