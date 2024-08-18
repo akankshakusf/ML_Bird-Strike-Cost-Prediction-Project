@@ -8,7 +8,9 @@ This project focuses on predicting the cost of bird strikes on aircraft by analy
 ## Research Questions and Answers
 
 **Q1. Can we accurately predict the total cost of a bird strike incident using incident attributes such as the number of engines, number of objects struck, and the description of the incident?**
+
 **Q2. How does the "Engine to Object Ratio" influence the prediction of bird strike costs, and what is its significance in the model?**
+
 **Q3. How do different machine learning models compare in terms of predictive accuracy for estimating the total cost of bird strikes?**
 
 ## Data Description
